@@ -1,6 +1,5 @@
-hello = "hello".upper()#sets the entire string to uppercase
-print(hello)
-
-#or
-mello = "meello"#sets the entire string to uppercase
-print(mello.upper())
+x = input("Name; ")
+if(x == "Tim"):
+    print("You are great")
+else:
+    print('do this')
