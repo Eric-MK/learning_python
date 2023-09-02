@@ -1,2 +1,2 @@
-num = input('Number: ')#inputs returns string
-print(int(num) - 5)#converting to int
+hello = "hello".upper()#sets the entire string to uppercase
+print(hello)
