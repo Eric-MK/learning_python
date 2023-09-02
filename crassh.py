@@ -1,2 +1,3 @@
-print("helloo", end= '|') #does not move to the next line
-print("helloo")#
+Name  = input("Name: ")
+age = input("Age: ")
+print(Name, age)
