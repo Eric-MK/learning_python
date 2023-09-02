@@ -1,4 +1,2 @@
-x = 13
-y = 3
-result = x // y #removes decimal points gives us the int value
-print(result)
+num = input('Number: ')#inputs returns string
+print(num - 5)#will return an error
